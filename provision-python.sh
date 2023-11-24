@@ -17,7 +17,7 @@ python3 -m pip install Pillow
 # for venv
 sudo apt-get install -y libjpeg-dev zlib1g-dev libtiff-dev libfreetype6-dev liblcms2-dev libwebp-dev tcl8.6-dev tk8.6-dev python-tk
 
-sudo apt-get install -ט python3-venv
+sudo apt-get install -y python3-venv
 
 
 #after venv
