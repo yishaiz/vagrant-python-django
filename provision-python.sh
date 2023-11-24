@@ -14,7 +14,7 @@ python3 -m django --version
 # more installs for project:
 python3 -m pip install Pillow
 
-# for venv
+# for Pillow in the venv
 sudo apt-get install -y libjpeg-dev zlib1g-dev libtiff-dev libfreetype6-dev liblcms2-dev libwebp-dev tcl8.6-dev tk8.6-dev python-tk
 
 sudo apt-get install -y python3-venv
