@@ -20,6 +20,11 @@ sudo apt-get install -y libjpeg-dev zlib1g-dev libtiff-dev libfreetype6-dev libl
 sudo apt-get install -y python3-venv
 
 
+pip3 install wheel
+
+pip3 install psycopg2-binary
+
+
 #after venv
 #apt-get -y install python3-flask
 
